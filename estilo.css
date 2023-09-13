@@ -1,0 +1,40 @@
+.logo{
+    width: 40px;
+}
+
+#img{
+    padding: 0;
+}
+
+#navbar{
+    padding: 0;
+}
+
+.container{
+    background-color: black;
+    color: #D93690;
+}
+
+.row{
+    padding: 0;
+}
+
+.container-fluid{
+    background-color: black;
+    color: #D93690;
+}
+
+#inka{
+    width: 300px;
+    height: 300px;
+}
+
+#cola{
+    width: 300px;
+    height: 300px;
+}
+
+#pespi{
+    width: 300px;
+    height: 300px;
+}
